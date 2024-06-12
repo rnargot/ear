@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'kulture';
+    src:
+      url('./fonts/kulture/kulture.ttf') format('woff2 supports variations');
+    font-weight: 300 900;
+  }

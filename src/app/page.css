@@ -1,0 +1,21 @@
+.main {
+  background-image: url('./ear.png');
+  display: flex;
+  background-size:cover;
+  width: 100vw;
+  height: 150vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 30vw;
+  margin-left: 20vw;
+}
+.title {
+  font-family: 'kulture';
+  font-size: 36pt;
+  color:aliceblue;
+  /* transform: rotate(45deg); */
+}
