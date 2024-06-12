@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <div className="title">one day we will gather together on ear dot cool and listen to sounds that </div>
     </div>
+    <div className="soon">coming soon</div>
     </div>
   );
 }

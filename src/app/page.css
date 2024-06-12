@@ -19,3 +19,12 @@
   color:aliceblue;
   /* transform: rotate(45deg); */
 }
+.soon {
+    font-family: 'kulture';
+    font-size: 24pt;
+    color:aliceblue;
+    margin-top: 140vh;
+}
+body {
+  margin: 0px;
+}
